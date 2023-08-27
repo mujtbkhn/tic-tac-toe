@@ -16,7 +16,9 @@
 * cloneNode
 
 **Rules of Tic-Tac-Toe Game**
+
 <h3>you dont require a ruleset for this game! still</h3>
+
 * There are 2 players X and Cross
 * Both get the turn consecutively
 * if a match of 3 similar X's or Crosses are made then the game is over
